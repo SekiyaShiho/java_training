@@ -8,5 +8,4 @@ public class test2_1 {
 	{
 		System.out.println("Hello World!");
 	}
-	
 }
