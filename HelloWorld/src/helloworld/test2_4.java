@@ -2,7 +2,7 @@ package helloworld;
 public class test2_4 {
 /**
 * mainメソッド
-* @param args 使用しない
+* @param args x
 */
 	public static void main(String[] args){
 	//int型の変数xに数値7を代入する。

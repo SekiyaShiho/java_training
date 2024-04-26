@@ -4,7 +4,7 @@ package helloworld;
 public class test2_3 {
 /**
 * mainメソッド
-* @param args 使用しない
+* @param args x,y
 */
 	public static void main(String[] args){
 		int x = 10 , y = 20;
