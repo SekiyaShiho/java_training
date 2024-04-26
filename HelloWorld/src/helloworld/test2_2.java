@@ -1,5 +1,4 @@
 package helloworld;
-
 //変数１に"Hello"を代入し、変数２に"World"を代入し、２つの文字列を結合させて"Hello World"を表示させる
 
 public class test2_2 {

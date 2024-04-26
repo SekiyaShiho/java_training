@@ -1,5 +1,4 @@
 package helloworld;
-
 public class test2_4 {
 /**
 * mainメソッド

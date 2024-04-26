@@ -1,5 +1,4 @@
 package helloworld;
-
 //コンソールに"Hello　World!"を表示するプログラムを作成する
 
 public class test2_1 {

@@ -1,5 +1,6 @@
 package helloworld;
 //int型の変数x,yに任意の数値を代入し、xの値をyに、yの値をxに入れ替えてxとyの値を表示するプログラムを作成する
+
 public class test2_3 {
 /**
 * mainメソッド
