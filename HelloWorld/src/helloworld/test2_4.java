@@ -1,10 +1,10 @@
 package helloworld;
 
 public class test2_4 {
-	/**
-     * mainメソッド
-     * @param args 使用しない
-     */
+/**
+* mainメソッド
+* @param args 使用しない
+*/
 	public static void main(String[] args){
 	//int型の変数xに数値7を代入する。
 		int x = 7;
