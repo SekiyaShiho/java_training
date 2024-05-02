@@ -19,7 +19,6 @@ public class test3_1_1 {
 		}
 		else {
 			System.out.println("不合格");
-		}
-		
+		}	
 	}
 }
