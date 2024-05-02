@@ -4,7 +4,7 @@ import java.io.*;
 public class test3_1_1 {
 /**
 * mainメソッド
-* 実力確認問題3.if文 1(ケース1)
+* 実力確認問題3.if文 1ース1)
 */
 	public static void main(String[] args) throws IOException{
 		System.out.println("試験の点数を入力してください。(0~100)");
