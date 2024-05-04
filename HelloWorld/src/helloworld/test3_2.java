@@ -1,11 +1,13 @@
 package helloworld;
 import java.io.*;
 
+
 public class test3_2 {
-/**
-* mainメソッド
-* 実力確認問題3.if文 2
-*/
+	/**
+	 * @param args
+	 * @throws IOException
+	 * 実力確認問題3.if文 2
+	 */
 	public static void main(String[] args) throws IOException{
 		System.out.println("整数値x,yを入力してください。");
 		
