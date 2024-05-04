@@ -2,10 +2,11 @@ package helloworld;
 import java.io.*;
 
 public class test3_1_3 {
-/**
-* mainメソッド
-* 実力確認問題3.if文 1(ケース3)
-*/
+	/**
+	 * @param args
+	 * @throws IOException
+	 * 実力確認問題3.if文 1(ケース3) 
+	 */
 	public static void main(String[] args) throws IOException{
 		System.out.println("試験の点数を入力してください。(0~100)");
 			
@@ -14,17 +15,16 @@ public class test3_1_3 {
 		String str = br.readLine();
 		int res =Integer.parseInt(str);
 		
-		if (res >= 80) {
+		if (res >= 80 && res <= 100) {
 			System.out.println("優");
-		}
-		else if(res >= 70 && res <80) {
+		} else if (res >= 70 && res <80) {
 			System.out.println("良");
-		}
-		else if(res >= 60 && res <70) {
+		} else if (res >= 60 && res <70) {
 			System.out.println("可");
-		}
-		else {
+		} else if (res < 60 && res >=0){
 			System.out.println("不可");
+		} else {
+			System.out.println("0～100の点数を入力してください。");
 		}
 	}
 }

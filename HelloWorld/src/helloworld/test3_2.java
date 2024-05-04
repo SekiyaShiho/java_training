@@ -17,7 +17,7 @@ public class test3_2 {
 		int y1 = Integer.parseInt(y);
 		
 		if(x1 < y1 && (x1 % 2) == 0 && (y1 % 2) == 0) {
-			System.out.println("xは yより小さく、かつ、xとyは共に偶数である。");
+			System.out.println("xはyより小さく、かつ、xとyは共に偶数である。");
 		}
 		else if(x1 == y1 && x1 < 0) {
 			System.out.println("xとyは等しく、かつ、負の数である。");
